@@ -1,0 +1,8 @@
+C:\Users\valdb\source\repos\Delegat i sob\Delegat i sob\bin\Debug\Delegat i sob.exe.config
+C:\Users\valdb\source\repos\Delegat i sob\Delegat i sob\bin\Debug\Delegat i sob.exe
+C:\Users\valdb\source\repos\Delegat i sob\Delegat i sob\bin\Debug\Delegat i sob.pdb
+C:\Users\valdb\source\repos\Delegat i sob\Delegat i sob\obj\Debug\Delegat i sob.csproj.AssemblyReference.cache
+C:\Users\valdb\source\repos\Delegat i sob\Delegat i sob\obj\Debug\Delegat i sob.csproj.SuggestedBindingRedirects.cache
+C:\Users\valdb\source\repos\Delegat i sob\Delegat i sob\obj\Debug\Delegat i sob.csproj.CoreCompileInputs.cache
+C:\Users\valdb\source\repos\Delegat i sob\Delegat i sob\obj\Debug\Delegat i sob.exe
+C:\Users\valdb\source\repos\Delegat i sob\Delegat i sob\obj\Debug\Delegat i sob.pdb
